@@ -1,3 +1,10 @@
+
+# DESATUALIZADO
+Esse programa não funciona mais.
+
+
+
+
 # MenorahLyrics
 
 Programa escrito em Python para pesquisar músicas e salvar elas num arquivo txt, usa o tkinter como GUI e a API do [Vagalume](https://vagalume.com.br)
